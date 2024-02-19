@@ -3,6 +3,6 @@
     "installerName": "AcroRdrDC2300820470_de_DE.exe",
     "architecture": "x64", 
     "version": "2023.008.470",
-    "url": "https://ifpinformatikdeployment.blob.core.windows.net/deployment/adobe/AcroRdrDC2300820470_de_DE.exe"
+    "url": "https://github.com/IFP-Informatik/patch-deployment/raw/main/AcroRdrDC2300820470_de_DE.exe"
   }
 }
