@@ -1,8 +1,8 @@
 {
   "adobe": {
-    "installerName": "AcroRdrDC2300820470_de_DE.exe",
+    "installerName": "Reader_de_install.exe",
     "architecture": "x64", 
-    "version": "2023.008.470",
-    "url": "https://github.com/IFP-Informatik/patch-deployment/raw/main/AcroRdrDC2300820470_de_DE.exe"
+    "version": "23.008.20533",
+    "url": "https://github.com/IFP-Informatik/patch-deployment/raw/main/Reader_de_install.exe"
   }
 }
