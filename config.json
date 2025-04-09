@@ -12,9 +12,9 @@
     "url": "https://github.com/IFP-Informatik/patch-deployment/raw/main/jre-8u401-windows-x64.exe"
   },
   "abaclient": {
-    "installerName": "abaclient-3.2.996-de.msi",
+    "installerName": "abaclient-3.3.1039-de.msi",
     "architecture": "x64",
-    "version": "3.2.996",
-    "url": "https://downloads.abacus.ch/fileadmin/ablage/dokumente/05_abaclient/abaclient-3.2.996-de.msi"
+    "version": "3.3.1039",
+    "url": "https://downloads.abacus.ch/fileadmin/ablage/dokumente/05_abaclient/abaclient-3.3.1039-de.msi"
   }
 }
